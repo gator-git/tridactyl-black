@@ -61,15 +61,7 @@
     --tridactyl-cmplt-bg: var(--tridactyl-bg);
     --tridactyl-cmplt-font-size: 10pt;
     --tridactyl-cmplt-font-family: monospace;
-    /* i don't think 0.5px is redered */
     --tridactyl-cmplt-border-top: 1px solid grey;
-
-    /* need a better way for naming variables 
-     *
-        - .Properties for .HistoryCompletionSource table
-        - .Properties for .BmarkCompletionSource table
-
-    */
 
     /*sectionHeader*/
 
